@@ -1,0 +1,24 @@
+OS 볼륨에 대한 폴더 경로의 목록입니다.
+볼륨 일련 번호는 10EB-5B1C입니다.
+C:.
+├─semi_about30s
+│  ├─.settings
+│  └─src
+│      └─main
+│          ├─java
+│          │  └─semi
+│          │      ├─board
+│          │      ├─main
+│          │      ├─mypage
+│          │      ├─qna
+│          │      ├─review
+│          │      └─user
+│          └─webapp
+│              ├─css
+│              ├─img
+│              ├─META-INF
+│              └─WEB-INF
+│                  └─lib
+└─Servers
+    ├─.settings
+    └─Tomcat v9.0 Server at localhost-config

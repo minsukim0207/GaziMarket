@@ -1,0 +1,147 @@
+OS 볼륨에 대한 폴더 경로의 목록입니다.
+볼륨 일련 번호는 10EB-5B1C입니다.
+C:.
+│  .gitignore
+│  outtree.txt
+│  treemainOutPut.txt
+│  
+├─semi_about30s
+│  │  .classpath
+│  │  .gitignore
+│  │  .project
+│  │  
+│  ├─.settings
+│  │      .jsdtscope
+│  │      org.eclipse.core.resources.prefs
+│  │      org.eclipse.jdt.core.prefs
+│  │      org.eclipse.wst.common.component
+│  │      org.eclipse.wst.common.project.facet.core.xml
+│  │      org.eclipse.wst.jsdt.ui.superType.container
+│  │      org.eclipse.wst.jsdt.ui.superType.name
+│  │      
+│  └─src
+│      └─main
+│          ├─java
+│          │  └─semi
+│          │      ├─board
+│          │      │      Board.java
+│          │      │      BoardDAO.java
+│          │      │      BoardDeleteServlet.java
+│          │      │      BoardPostServlet.java
+│          │      │      BoardUpdateServlet.java
+│          │      │      
+│          │      ├─main
+│          │      │      Product.java
+│          │      │      ProductDAO.java
+│          │      │      
+│          │      ├─mypage
+│          │      │      DeleteAccountServlet.java
+│          │      │      PaginationUtil.java
+│          │      │      ProductDAO.java
+│          │      │      ProductVO.java
+│          │      │      RegisterProductServlet.java
+│          │      │      UpdateProductServlet.java
+│          │      │      UpdateUserinfoServlet.java
+│          │      │      
+│          │      ├─qna
+│          │      │      Paging.java
+│          │      │      QnADAO.java
+│          │      │      QnADeleteServlet.java
+│          │      │      QnAListServlet.java
+│          │      │      QnAPostServlet.java
+│          │      │      QnAUpdateServlet.java
+│          │      │      QnAVO.java
+│          │      │      
+│          │      ├─review
+│          │      │      Review.java
+│          │      │      ReviewDAO.java
+│          │      │      ReviewDeleteServlet.java
+│          │      │      ReviewPostServlet.java
+│          │      │      ReviewServlet.java
+│          │      │      ReviewUpdateServlet.java
+│          │      │      
+│          │      └─user
+│          │              JoinServlet.java
+│          │              LoginLogoutServlet.java
+│          │              
+│          └─webapp
+│              │  BoardDelete.jsp
+│              │  BoardDetail.jsp
+│              │  BoardList.jsp
+│              │  BoardPost.jsp
+│              │  BoardUpdate.jsp
+│              │  changePassword.jsp
+│              │  deleteAccount.jsp
+│              │  deleteSuccess.jsp
+│              │  invalidAccountId.jsp
+│              │  login.jsp
+│              │  logout.jsp
+│              │  mainpage.jsp
+│              │  productDelete.jsp
+│              │  productDetail.jsp
+│              │  productRegister.jsp
+│              │  productRegisterError.jsp
+│              │  productRetrieve.jsp
+│              │  productUpdate.jsp
+│              │  QnADelete.jsp
+│              │  QnADetail.jsp
+│              │  QnAList.jsp
+│              │  QnAPost.jsp
+│              │  QnAUpdate.jsp
+│              │  register.jsp
+│              │  reviewDelete.jsp
+│              │  reviewDetail.jsp
+│              │  reviewList.jsp
+│              │  reviewPost.jsp
+│              │  reviewUpdate.jsp
+│              │  searchedList.jsp
+│              │  
+│              ├─css
+│              │      board-styles.css
+│              │      boardDetail-styles.css
+│              │      boardList-styles.css
+│              │      boardPost-styles.css
+│              │      boardUpdate-styles.css
+│              │      changePassword.css
+│              │      deleteAccount.css
+│              │      login.css
+│              │      mainpage.css
+│              │      product-styles.css
+│              │      QnAListStyles.css
+│              │      QnAstyles.css
+│              │      register.css
+│              │      reviewDelete.css
+│              │      reviewDetail.css
+│              │      reviewList.css
+│              │      reviewPost.css
+│              │      reviewUpdate.css
+│              │      searchedList.css
+│              │      
+│              ├─img
+│              │      gajidori.png
+│              │      gajikun-unscreen.gif
+│              │      gazi.png
+│              │      gazigun_error.png
+│              │      goToMain.jpg
+│              │      
+│              ├─META-INF
+│              │      MANIFEST.MF
+│              │      
+│              └─WEB-INF
+│                  └─lib
+│                          ojdbc11.jar
+│                          
+└─Servers
+    │  .project
+    │  
+    ├─.settings
+    │      org.eclipse.wst.server.core.prefs
+    │      
+    └─Tomcat v9.0 Server at localhost-config
+            catalina.policy
+            catalina.properties
+            context.xml
+            server.xml
+            tomcat-users.xml
+            web.xml
+            
