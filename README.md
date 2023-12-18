@@ -1,10 +1,8 @@
-### README sample (프로젝트 리드미 사용 방법)
-# 프로젝트 이름
+# 가지마켓
 
 <p align="center">
   <br>
-  이미지는 추후에 변경하시거나 삭제하시면 됩니다.<br /> 보통 메인 이미지를 올려놓습니다.<br />
-  <img src="https://img.freepik.com/free-vector/video-conference-remote-working-flat-illustration-screen-laptop-with-group-colleagues-people-conn_88138-548.jpg?w=900&t=st=1691033873~exp=1691034473~hmac=36bcd6579f5373a2f4555b77b3c120770cb7ab06608a267b80ca7ec436648620">
+  <img src="https://github.com/minsukim0207/GaziMarket/blob/master/readme-static/img/GaziMarket.png">
   <br>
 </p>
 
@@ -13,43 +11,47 @@
 ## 프로젝트 소개
 
 <p align="justify">
-프로젝트를 만들게 된 개요나 동기를 작성해주세요.
+중고 상품 거래 및 소통을 위한 플랫폼으로서, 사용자들이 편리하고 간단하게 거래하고 소통할 수 있는 환경을 제공한다.
 </p>
 
 <p align="center">
-여러분이 만든 프로젝트를 캡쳐하거나 <strong>GIF</strong> 화면으로 만들어 <br />
-상대방이 프로젝트를 예시로 한 번에 볼수 있게 만들어주는게 좋습니다.<br />
-또는 배포하여 프로젝트 사이트를 올려도 좋습니다.<br />
-<strong>GIF</strong> 또는 <strong>Images</strong>
+<img src="https://github.com/minsukim0207/GaziMarket/blob/master/readme-static/img/gazimarket.gif">
 </p>
 
 <br>
 
 ## 기술 스택
 
-| JavaScript |    Java    | 
-| :--------: | :--------: | 
-|   ![js]    |  ![java]   |
+|    Java    |    JSP     |  OracleDB  |   HTML5    |    CSS     |  
+| :--------: | :--------: | :--------: | :--------: | :--------: | 
+|   ![java]  |   ![jsp]   | ![oracle]  |  ![html]   |  ![css]    |
 
 <br>
 
 ## 구현 기능
 
-### 기능 1
+### 상품 조회
 
-### 기능 2
+### 상품 등록
 
-### 기능 3
+### 상품 상세보기
 
-### 기능 4
+### 상품 수정
 
 <br>
 
-## 배운 점 & 아쉬운 점
+## 좋았던 점 & 아쉬웠던 점 & 어려웠던 점
 
 <p align="justify">
-여러분이 프로젝트를 진행하며 배운 부분과 에러해결(trouble shooting)을 작성해서 기술하면 좋습니다.<br />
-트러블슈팅(trouble shooting) : 문제 해결의 일종 / 보통 컴퓨터 시스템에서 발생하는 문제들을 해결하는 용어로 많이 사용합니다.
+좋았던 점
+새로운 사람들과 개발에 대해 지식을 공유하며, 프로젝트 방향 의견을 도출하고 설계하는데 있어 의견을 공유하고 합의점을 찾아 프로젝트를 완성할 수 있었던 점이 가장 기억에 많이 남습니다. 
+
+아쉬웠던 점 
+프로젝트를 진행하며 서로 조심스럽게 개발을 진행하다보니 공통된 문제를 개발해야함에 있어 공유를 하는 부분이 부족했었고, 그로 인해 프로젝트 퀄리티를 높이지 못한 아쉬움이 있습니다. 
+
+어려웠던 점 
+큰 틀을 그려 프로젝트 작업을 진행하는 작업이 중요하다는 것을 느꼈습니다. 
+프로젝트를 개발하기 위해 기획, 설계부터 진행했었고, 세밀하게 설계와 기획을 진행하지 않아  프로젝트 진행 중 변경되거나 상의를 해야하는 부분이 있었습니다. 
 </p>
 
 <br>
@@ -57,5 +59,8 @@
 
 <!-- Stack Icon Refernces -->
 
-[js]: ./readme-static/img/javascript.svg
 [java]: ./readme-static/img/java.svg
+[jsp]: ./readme-static/img/jsp.svg
+[oracle]: ./readme-static/img/SQL.svg
+[html]: ./readme-static/img/HTML5.svg
+[css]: ./readme-static/img/css3.svg
