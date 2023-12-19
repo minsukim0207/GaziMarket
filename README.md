@@ -61,6 +61,6 @@
 
 [java]: ./readme-static/img/java.svg
 [jsp]: ./readme-static/img/jsp.svg
-[oracle]: ./readme-static/img/SQL.svg
-[html]: ./readme-static/img/HTML5.svg
+[oracle]: ./readme-static/img/oracle.svg
+[html]: ./readme-static/img/html5.svg
 [css]: ./readme-static/img/css3.svg
