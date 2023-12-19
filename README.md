@@ -60,7 +60,7 @@
 <!-- Stack Icon Refernces -->
 
 [java]: ./readme-static/img/java.svg
-[jsp]: ./readme-static/img/jsp.svg
+[jsp]: ./readme-static/img/jsp_.svg
 [oracle]: ./readme-static/img/oracle.svg
 [html]: ./readme-static/img/html5.svg
 [css]: ./readme-static/img/css3.svg
